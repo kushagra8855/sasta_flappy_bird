@@ -3,7 +3,6 @@
 This is a simple implementation of the classic Flappy Bird game using Python and Pygame. I drew the game assets myself using Aseprite.<br/>
 <br/>
 <strong>How to Play</strong><br/>
-<br/>
 - Press the space bar to make the bird jump.<br/>
 - Avoid the pipes by flying between them.<br/>
 - Each successful pass through a pair of pipes earns you one point.<br/>
